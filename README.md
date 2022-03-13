@@ -39,6 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mason-lin&show_icons=true&locale=en" alt="mason-lin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mason-lin&" alt="mason-lin" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mason-lin&" alt="mason-lin" /></p> -->
 
 ![PSM](https://github.com/Mason-Lin/mason-lin/blob/master/PSM1.png?raw=true)
