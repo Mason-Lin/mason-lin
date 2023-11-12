@@ -39,6 +39,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mason-lin&show_icons=true&locale=en" alt="mason-lin" /></p>
 
+<h3 align="left">My contributions at work (HP GitHub Enterprise snapshot on 11/12/2023):</h3>
+![image](https://github.com/Mason-Lin/mason-lin/assets/12875127/e22a1e82-f053-4e38-bfb2-cc8260d49d04)
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mason-lin&" alt="mason-lin" /></p> -->
 
 ![PSM](https://github.com/Mason-Lin/mason-lin/blob/master/PSM1.png?raw=true)
