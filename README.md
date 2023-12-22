@@ -1,23 +1,27 @@
 <h1 align="center">Hi 👋, I'm Mason</h1>
-<h3 align="center">A passionate test automation developer from Taiwan</h3>
+<h3 align="center">A passionate test automation engineer team leader from Taiwan</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mason-lin&label=Profile%20views&color=0e75b6&style=flat" alt="mason-lin" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mason-lin" alt="mason-lin" /></a> </p>
-
 - 🔭 I’m currently working in [Hewlett-Packard Company](https://www.linkedin.com/company/hp/?originalSubdomain=tw)
 
-- 🌱 I’m currently reading **The 7 Habits of Highly Effective People**
+- 🌱 I like reading. There are three books I highly recommend
+  -  The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change (ISBN: 978-0743269513)
+  -  Soft Skills: The Software Developer's Life Manual (ISBN: 978-1617292392)
+  -  Clean Architecture: A Craftsman's Guide to Software Structure and Design (ISBN: 9789864342945)
 
-- 👯 I’m looking for team player **Computer automated test system**
+- 👯 I’m looking for a study group for two books
+  -  The DevOps Handbook： How to Create World-Class Agility, Reliability, and Security in Technology Organizations (ISBN: 978-1942788003)
+  -  Domain-Driven Design: Tackling Complexity in the Heart of Software (ISBN: 978-0321125217)
 
-- 🤝 I’m looking for help with **aws cdk cloudformation**
+- 🤝 I’m looking for help with **People Management Skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mason-Lin?tab=repositories](https://github.com/Mason-Lin?tab=repositories)
+  -  In my spare time, I also contribute to open source [PyPI server #442](https://github.com/pypiserver/pypiserver/pull/442) [PyPI server #481](https://github.com/pypiserver/pypiserver/pull/481) [LeetCode #18739](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/18739)
 
-- 📝 I regularly write articles on [https://blog.rd.vivotek.com/2019/09/clean-architecture.html](https://blog.rd.vivotek.com/2019/09/clean-architecture.html)
+-  📝 I volunteered extra time to provide technical sharing sessions for the team. [https://blog.rd.vivotek.com/2019/09/clean-architecture.html](https://blog.rd.vivotek.com/2019/09/clean-architecture.html)
 
-- 💬 Ask me about **python, automation, wmi**
+- 💬 Feel free to ask any questions about **Test Automation, Test Strategy, DevOps, and Python!**
 
 - 📫 How to reach me **pizza0117+github@gmail.com**
 
