@@ -33,7 +33,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mason-lin-696a96bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mason-lin-696a96bb" height="30" width="40" /></a>
 <a href="https://fb.com/himasonlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himasonlin" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yu-kang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yu-kang" height="30" width="40" /></a>
+<!-- a href="https://www.leetcode.com/yu-kang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yu-kang" height="30" width="40" /></a -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
